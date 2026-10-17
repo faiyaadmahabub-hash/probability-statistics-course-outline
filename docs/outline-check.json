@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-17",
+  "modules": {
+    "B3": "Introduction to Probability",
+    "B11": "Probability Rules and Event Types",
+    "B20": "Counting Methods",
+    "B29": "Descriptive Statistics",
+    "B38": "Inferential Statistics"
+  },
+  "lesson_count": 25,
+  "lessons": {
+    "C3": "What is Probability and Event Outcomes",
+    "C5": "Basic Set Operations (Union, Intersection, Disjoint, Complement)",
+    "C7": "Properties of Set Operations",
+    "C9": "Tree Diagrams and Probability Models",
+    "C10": "Randomness and Its Importance",
+    "C11": "Experimental vs Theoretical Probability",
+    "C12": "Addition Rule for Probability",
+    "C14": "Multiplication Rule for Probability",
+    "C16": "Mutually Exclusive and Non-Mutually Exclusive Events",
+    "C18": "Independent and Dependent Events",
+    "C20": "Counting Principles and Product Rule",
+    "C22": "Introduction to Factorials",
+    "C24": "Permutations",
+    "C26": "Combinations",
+    "C27": "Applying Permutations and Combinations in Probability",
+    "C29": "Introduction to Descriptive Statistics",
+    "C31": "Measures of Central Tendency (Mean, Median, Mode)",
+    "C32": "Range and Distribution",
+    "C34": "Standard Deviation",
+    "C36": "Maximum and Minimum Values",
+    "C38": "Introduction to Inferential Statistics",
+    "C40": "Population vs Sample",
+    "C42": "Sampling Methods and Techniques",
+    "C43": "Introduction to Hypothesis Testing",
+    "C45": "Introduction to Regression Analysis"
+  },
+  "populated_task_fields": 0,
+  "formulas": 0,
+  "status": "Draft curriculum; no runtime or learner-outcome evaluation applies"
+}
